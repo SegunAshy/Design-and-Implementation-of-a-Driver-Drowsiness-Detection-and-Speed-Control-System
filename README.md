@@ -1,0 +1,2 @@
+# Design-and-Implementation-of-a-Driver-Drowsiness-Detection-and-Speed-Control-System
+This project focused on the design and implementation of a Driver Drowsiness Detection  and Speed Control System using a Raspberry Pi 4 as the central processing unit. The  system combines computer vision-based fatigue detection using facial landmarks and  physiological monitoring via the GY-MAX30102 Pulse Oximeter sensor.
